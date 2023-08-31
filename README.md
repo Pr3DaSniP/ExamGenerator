@@ -1,5 +1,13 @@
 # ExamGenerator
 
+![Language](https://img.shields.io/badge/language-PHP-darkblue.svg)
+![Language](https://img.shields.io/badge/language-HTML-blue.svg)
+![Language](https://img.shields.io/badge/language-CSS-red.svg)
+![Language](https://img.shields.io/badge/language-JS-yellow.svg)
+![Bootstrap](https://img.shields.io/badge/framework-Bootstrap-blueviolet.svg)
+![MySQL](https://img.shields.io/badge/sgbd-MySQL-blue.svg)
+![Apache](https://img.shields.io/badge/server-Apache-orange.svg)
+
 Lien vers la documentation de l'application :
 
 ## Présentation
@@ -30,7 +38,7 @@ Accéder à l'application via l'URL localhost une fois l'environnement web local
 
 ##### Etape 5.
 
-Se connecter avec les identifiants suivants :
+Se connecter avec les identifiants suivants : <br />
 enseignant@examgenerator.fr / 123 <br />
 eleve@examgenerator.fr / 123 <br />
 admin@examgenerator.fr / 123 <br />
