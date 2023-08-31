@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/sgbd-MySQL-blue.svg)
 ![Apache](https://img.shields.io/badge/server-Apache-orange.svg)
 
-Lien vers la documentation de l'application :
+Lien vers la documentation de l'application : https://pr3dasnip.github.io/ExamGenerator/
 
 ## Présentation
 
