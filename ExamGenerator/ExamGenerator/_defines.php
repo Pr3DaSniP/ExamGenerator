@@ -13,10 +13,10 @@ define('IMAGES', 'public' . DS . 'img');
 define('INCLUDES', 'includes');
 define('ELEVE', 3);
 if ($env == 'prod') {
-    define('DBHOST', 'db5011825582.hosting-data.io');
-    define('USER', 'dbu5415279');
-    define('PWD', 'miagemulhouse68');
-    define('DBNAME', 'examgenerator');
+    define('DBHOST', '');
+    define('USER', '');
+    define('PWD', '');
+    define('DBNAME', '');
     define('DEBUG', false);
 } else {
     define('DBHOST', 'localhost');
